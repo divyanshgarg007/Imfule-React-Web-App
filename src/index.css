@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif!important;
+  /* background-color: #f9fafa!important; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+a{
+  color: #283c86!important;
+}
+.action_button{
+  background: linear-gradient(to right, #283c86, #ef305e);
+  font-size: 1rem!important;
+  text-transform: capitalize!important;
+}
+.action_button_outlined{
+  text-transform: capitalize!important;
+}
+.error{
+  margin: 0;
+    font-weight: 400;
+    color: #d32f2f;
+    font-size: 0.7rem;
+    text-align: left;
+
+}
+/* .mt-2{
+  margin-top:16px;
+} */
+.text-font {
+  font-family: 'Poppins',sans-serif!important;
+}
+
+.MuiTypography-root{
+  font-family: 'Poppins',sans-serif!important;
+}
+.MuiMenuItem-root {
+  font-family: 'Poppins',sans-serif!important;
+}
+.MuiSelect-select{
+  font-family: 'Poppins',sans-serif!important;
+}
+.MuiInputBase-input{
+  font-family: 'Poppins',sans-serif!important;
+}
+.MuiButton-root.Mui-disabled{
+  font-family: 'Poppins',sans-serif!important;
+  background: #eee!important;
+  color: #8d8d8d!important;
+  font-size: 0.9rem!important;
+  text-transform: capitalize!important;
+}
+/* Hashtag Css */
+.rmsc .item-renderer input[type="checkbox"] {
+  display: none!important;
+}
+.rmsc .dropdown-container{
+  border: 1px solid #283c86!important;
+}
+.rmsc .dropdown-container:focus-within{
+  box-shadow:none!important;
+}
+.dropdown-heading-value .gray{
+  color: rgba(0, 0, 0, 0.87)!important;
+    font-size: 0.9rem!important;
+}
+.dropdown-heading-value span{
+  font-family: 'Poppins',sans-serif!important;
+  font-size: 0.9rem!important;
+  color: rgba(0, 0, 0, 0.87)!important;
+}
+.dropdown-heading svg{
+  color: #283c86!important;
+}
+.dropdown-content input{
+  font-family: 'Poppins',sans-serif!important;
+  font-size: 0.9rem!important;
+  color: rgba(0, 0, 0, 0.87)!important;
+}
+.dropdown-content span{
+  font-family: 'Poppins',sans-serif!important;
+  font-size: 0.9rem!important;
+  color: rgba(0, 0, 0, 0.87)!important;
+}

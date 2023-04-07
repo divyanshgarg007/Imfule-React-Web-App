@@ -1,0 +1,2 @@
+import PromotionPostTitleTextBox from './PromotionPostTitleTextBox'
+export default PromotionPostTitleTextBox

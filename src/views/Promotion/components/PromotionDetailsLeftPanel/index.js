@@ -1,0 +1,2 @@
+import PromotionDetailsLeftPanel from './promotionDetailsLeftPanel'
+export default PromotionDetailsLeftPanel
